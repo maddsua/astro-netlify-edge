@@ -4,6 +4,8 @@ My goal is to pring support of Netlify Edge to Astro 3, as I believe in Edge sup
 
 This code is to be updated, and I probably gonna change a bunch of things to my taste
 
+Email me on <maddsuadev@proton.me> it you're willing to participate
+
 ---
 
 
