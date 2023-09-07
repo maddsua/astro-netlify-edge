@@ -1,3 +1,12 @@
+This is a direct copy of @astrojs/netlify as of Astro v2.10.15.
+
+My goal is to pring support of Netlify Edge to Astro 3, as I believe in Edge supremacy lol (Lambdas are just more pricy to run so no thanks)
+
+This code is to be updated, and I probably gonna change a bunch of things to my taste
+
+---
+
+
 # @astrojs/netlify
 
 This adapter allows Astro to deploy your SSR site to [Netlify](https://www.netlify.com/).
