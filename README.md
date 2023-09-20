@@ -6,6 +6,10 @@ This code is to be updated, and I probably gonna change a bunch of things to my 
 
 Email me on <maddsuadev@proton.me> it you're willing to participate
 
+## Status updates:
+
+Sep 2023: Waiting for Netlify to take over adapter ownership or reject it
+
 ---
 
 
