@@ -1,6 +1,6 @@
 This is a direct copy of @astrojs/netlify as of Astro v2.10.15.
 
-My goal is to pring support of Netlify Edge to Astro 3, as I believe in Edge supremacy lol (Lambdas are just more pricy to run so no thanks)
+My goal is to bring support of Netlify Edge to Astro 3, as I believe in Edge supremacy lol (Lambdas are just more pricy to run so no thanks)
 
 This code is to be updated, and I probably gonna change a bunch of things to my taste
 
@@ -9,6 +9,7 @@ Email me on <maddsuadev@proton.me> it you're willing to participate
 ## Status updates:
 
 Sep 2023: Waiting for Netlify to take over adapter ownership or reject it
+Nov 2023: Still waiting
 
 ---
 
