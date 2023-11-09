@@ -9,6 +9,7 @@ Email me on <maddsuadev@proton.me> it you're willing to participate
 ## Status updates:
 
 Sep 2023: Waiting for Netlify to take over adapter ownership or reject it
+
 Nov 2023: Still waiting
 
 ---
